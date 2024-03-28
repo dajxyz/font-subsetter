@@ -23,4 +23,4 @@ Then run
 pnpm run start
 ```
 
-This should create a subset font in `/input`. 
+This should create a subset font in `/output`. 
